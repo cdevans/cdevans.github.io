@@ -1,6 +1,6 @@
 title: "Plodding On"
 title_separator: "-"
-subtitle: "Attacking life, one foot in front of the other!" # site tagline that appears below site title in masthead
+subtitle: "Putting one foot in front of the other..." # site tagline that appears below site title in masthead
 name: "Clark Evans"
 description: >- # this means to ignore newlines
   Personal Site, Portfolio, and Blog of Clark Evans.
@@ -17,7 +17,7 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 
+paginate: 5
 paginate_path: /page:num/
 
 include:
