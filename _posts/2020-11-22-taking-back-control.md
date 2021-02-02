@@ -15,6 +15,6 @@ Today, I have decided to take back control. The last time I had decent success w
 
 This week, I start an 18-week training program leading up to the Chilly Half. I have based the program I will be following around the [Running Room](https://www.runningroom.com/ca/) training plan I used for previous half marathons, adjusted for the fact that I am much slower than I used to be! For the most part, the program consists of five runs per week: Tuesdays, Thursdays, and Saturdays are shorter runs, Wednesdays are gradually increasing distance and incorporate either hill or speed workouts as the schedule progresses, and Sundays are long distance runs done at a slower pace and as run/walk combos.
 
-To keep myself motivated and on track, I will be posting weekly summaries of my training here, and all of my runs are tracked using [RunKeeper](https://runkeeper.com/user/cdevans/profile).
+To keep myself motivated and on track, I will be posting weekly summaries of my training here, and all of my runs are tracked using [Runkeeper&trade;](https://runkeeper.com/user/cdevans/profile).
 
 My goal for the race is simply to complete the distance, but I will be very happy if I can do it in three hours.
