@@ -9,7 +9,7 @@ tags:
 #### Run Log
 
 - Wed: 5K tempo ==> 5.08K @ 8:55 ([Log](https://runkeeper.com/user/cdevans/activity/1698598033))
-- Thur: 6K farlek (as 1min fast, 2min steady) ==> 6.32K @ 8:29 ([Log](https://runkeeper.com/user/cdevans/activity/1699259727))
+- Thu: 6K farlek (as 1min fast, 2min steady) ==> 6.32K @ 8:29 ([Log](https://runkeeper.com/user/cdevans/activity/1699259727))
 - Sat: 6K steady ==> 6.06K @ 8:17, 4.83K @ 9:41 ([Log](https://runkeeper.com/user/cdevans/activity/1700523929) [Log](https://runkeeper.com/user/cdevans/activity/1700542319))
 - Sun: 18K run/walk ==> 18.11K @ 9:36 ([Log](https://runkeeper.com/user/cdevans/activity/1701242985))
 

@@ -9,7 +9,7 @@ tags:
 #### Run Log
 
 - Tue: 5K tempo ==> 5.74K @ 9:13 ([Log](https://runkeeper.com/user/cdevans/activity/1692989842))
-- Thur: 15K with 8 x 550m hill repeats ==> 14.57K @ 9:48 ([Log](https://runkeeper.com/user/cdevans/activity/1694295565))
+- Thu: 15K with 8 x 550m hill repeats ==> 14.57K @ 9:48 ([Log](https://runkeeper.com/user/cdevans/activity/1694295565))
 - Sat: 6K steady ==> 12.06K @ 9:34 ([Log](https://runkeeper.com/user/cdevans/activity/1695653264))
 - Sun: 12K run/walk ==> 12.01K @ 10:01 ([Log](https://runkeeper.com/user/cdevans/activity/1696450327))
 
