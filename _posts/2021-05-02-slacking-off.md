@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 I haven't been very good about training since completing the Chilly Half. I had set up a plan for each of the last three weeks that kept me runnning 40-50K per week, all while working on speed. However, as the saying goes, the best laid plans often go awry!

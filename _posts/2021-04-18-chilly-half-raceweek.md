@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Still being sore from all the yard work over the weekend, I decided to swap the Tuesday (10K) and Wednesday (6K) runs, and then ultimately postponed the Wednesday run until Thursday. I also decided to skip the Saturday (3K steady) run and rest up for the "race" run on Sunday.

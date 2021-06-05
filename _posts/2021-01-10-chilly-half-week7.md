@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 This was a bit of a crazy week work-wise, and I had to shuffle things around a bit, shifting the Tuesday/Wednesday/Thursday runs by a day, swapping the Thursday (5K steady) and Saturday (3K steady) runs, and then ultimately skipping Saturday. I did a bit extra on Sunday to make up for some of it, though. I thought that I would struggle with the hill repeats, but that actually turned out to be a rather fun workout!

@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Finally, a training week mostly as it should have been! The only change was pushing the Thursday (8K steady) run until Friday due to a busy work day. Also, heading home on the Sunday long run, I was still a fair ways out when I hit the 20K mark. Since I was still feeling really good, I ran it out to the half-marathon distance.

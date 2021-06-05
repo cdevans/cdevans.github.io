@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 A strange schedule this week, due to many factors. I had been planning to re-do the entire Week 14 schedule as it should have been done last week, but that didn't quite work out!

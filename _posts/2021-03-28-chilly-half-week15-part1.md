@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Postponing last week's long run until Monday really messed me up for this week. I had planned to push the weekday runs by a day and take Tuesday off, but ended up taking a second day due to weather and work schedule. So, I did a combination on Thursday, first the Wednesday (4K fartlek) run immediately followed by the Tuesday (6K tempo) run. Unfortuantely, I could not get a good pace going in either of them.

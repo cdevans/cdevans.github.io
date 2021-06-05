@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Another wonky weather and schedule week saw the Wednesday (15K with hill repeats) run postponed until Thursday, and the Thursday (7K steady) run ultimately skipped due to scheduling on Friday. However, Saturday was a beautiful day so I went out figuring on doing somewhere between 7K and 9K to make up a bit of the missed distance. I felt great at the 7K mark and was still feeling good around 9K, so I just kept going and ended up putting in 12K. I'm pretty sure that's the most I've ever run continuously! The weather on Sunday wasn't the greatest (wet and cold), and I was feeling pretty sluggish after the Saturday run. I slogged through it, though, albeit much slower than anticipated.

@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Another busy work week made me push the Wednesday/Thursday runs by a day, and swap the distances for what became the Friday and Saturday runs. The hill repeats on the Thursday run ended up being closer to 600m.

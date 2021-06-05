@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 This week ended up being a bit of a wash. My hip was really bothering me, so I pushed the Wednesday (6K fartlek) run until Thursday, and really struggled through it. After that, I felt that I should rest the hip rather than putting more stress on it, so I took the rest of the week off. I plan to repeat the entire week's schedule next week, pushing the race date out yet another week.

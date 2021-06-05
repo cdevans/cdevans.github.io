@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 I threw out my back early in the week, and wasn't able to run Wednesday (3K tempo), Thursday (4K steady), or Saturday (3K steady). However, I was feeling much better on Sunday, so I ran extra distance to make up for some of the missed runs.

@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Yet another busy work week required some juggling of the schedule again. I swapped the Wednesday (11.5K with 5 x 550m hill repeats) and Thursday (6K steady) runs, but then had to push the hill repeat run until Friday. Unformationaly, while out on Friday I got a bloody nose about 2K in, so I just ran home and treated it as what would have been the Saturday run (4K steady). I didn't want to run two longer runs back to back, so I skipped Saturday entirely. I probably should have done another shorter distance run, but I wasn't really feeling it this week anyways. I really had fun with the Sunday long run, though, and felt great througout and afterwards. For some reason, Runkeeper ended my activity out of the blue just shy of 13K, hence the two logs.

@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 This week is shorter than the others by one run. Additonally, I had to postpone the run that was supposed to be on Thursday until Friday.

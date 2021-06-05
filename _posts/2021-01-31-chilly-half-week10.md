@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 A snowstorm on Tuesday made for treacherous conditions, so I spread that distance (4K) over the other two shorter runs instead. Yet again, I had to swap the Wednesday (12.5K with hill repeats) and Thursday (6K steady) runs due to work obligations.

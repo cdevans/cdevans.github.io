@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 This week was the first full week of training. Unfortuantely, I wasn't able to maintain the faster pace on the Tuesday run, so I slowed down significantly for the last kilometer.

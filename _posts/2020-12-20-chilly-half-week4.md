@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 Overall, this was quite a good week. I managed all five runs at decent paces.

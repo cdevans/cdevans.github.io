@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 This week was a little light. I had issues with Runkeeper's GPS tracking on the Thursday run, but eventually managed to get it working somewhere just past the half-kilometre mark. We spent the weekend building a rock garden in the back yard, so no running but plenty of exercise digging and carting rocks!

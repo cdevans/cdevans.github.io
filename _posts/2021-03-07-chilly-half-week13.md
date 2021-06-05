@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 I had to take an extra day off on Tuesday, as I was pretty sore and really tired. I pushed the Tuesday (5K tempo) and Wednesday (6K fartlek) runs by a day, and was planning to run the Thursday (8K steady) run on Friday, but in the end I skipped that one, figuring I'd just put in a little extra (2-3K or so) on Saturday to make up a bit of the missed distance. But after finishing 6K at a decent pace on a beautiful Saturday afternoon, I was feeling great. I started another activity and put in nearly another 5K, albeit at a slower pace. Sunday was a decent run, but I ran out of steam around the 12-13K mark, despite consuming serveral gels throughout. I don't think that I ate enough before heading out, and I got really hungry and low on energy. So, the last 5K was really slow and killed what had been a decent average pace until then.

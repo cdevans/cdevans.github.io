@@ -4,6 +4,7 @@ categories:
   - health
 tags:
   - training
+  - running
 ---
 
 I struggled through the entire Tuesday run - my legs were sore and feeling like lead, and my right hip was aching. I woke up Wednesday to quite a bit of pain in the hip, so I decided to take a couple days off and re-evaluate on the weekend. Since I was still experiencing a fair bit of hip pain on Saturday, I opted to forego the weekend runs as well.
