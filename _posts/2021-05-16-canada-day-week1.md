@@ -15,7 +15,7 @@ I hope that this plan will allow me to keep up a decent training volume, but wil
 
 - Monday
   - AM: 4K steady (up) &rArr; 4.01K @ 8:16 ([Log](https://runkeeper.com/user/cdevans/activity/1743412691))
-  - PM: 4K steady (down) &rArr;4.01K @ 8:23 ([Log](https://runkeeper.com/user/cdevans/activity/1743762069))
+  - PM: 4K steady (down) &rArr; 4.01K @ 8:23 ([Log](https://runkeeper.com/user/cdevans/activity/1743762069))
 
 - Tuesday
   - AM: 4K steady (down) &rArr; 4.05K @ 8:21 ([Log](https://runkeeper.com/user/cdevans/activity/1744090917))
