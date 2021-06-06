@@ -29,7 +29,7 @@ The week went reasonably well. I missed the Wednesday PM run to take Quinn for h
 
 - Friday
   - AM: 4K fartlek &rArr; 5.04K @ 8:52 ([Log](https://runkeeper.com/user/cdevans/activity/1750730186))
-  - PM: 4K 5&1 &rArr; 5.02K @ 8:28 ([Log](https://runkeeper.com/user/cdevans/activity/1750809960))
+  - PM: 4K 5&1 &rArr; 5.02K @ 8:46 ([Log](https://runkeeper.com/user/cdevans/activity/1750809960))
 
 - Saturday
   - 7K LSD &rArr; 7.07K @ 8:59 ([Log](https://runkeeper.com/user/cdevans/activity/1751208856))
