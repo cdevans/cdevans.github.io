@@ -26,7 +26,7 @@ Well, this wasn't quite the full week I'd hoped. It turns out that not running f
 
 - Thursday
   - AM: 4K 5&1 &rArr; skipped
-  - PM: 4K steady &rArr; 5.13K @ 8:57 ([Log](https://runkeeper.com/user/cdevans/activity/1803525014))
+  - PM: 4K 5&1 &rArr; 5.13K @ 8:57 ([Log](https://runkeeper.com/user/cdevans/activity/1803525014))
 
 #### Total Distance: 22.28K
 
