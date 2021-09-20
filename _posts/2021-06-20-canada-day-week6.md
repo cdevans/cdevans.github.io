@@ -13,7 +13,7 @@ This was an extremely light week. Because I was scheduled to volunteer at Swimmi
 
 - Monday
   - AM: 5K steady &rArr; 5.02K @ 8:15 ([Log](https://runkeeper.com/user/cdevans/activity/1765589945))
-  - PM: 7K 5&1 &rArr; 5.02K @ 8:07 ([Log](https://runkeeper.com/user/cdevans/activity/1765909030) and 2.02K @ 8:39 ([Log](https://runkeeper.com/user/cdevans/activity/1765917002))
+  - PM: 7K 5&1 &rArr; 5.02K @ 8:07 ([Log](https://runkeeper.com/user/cdevans/activity/1765909030)) and 2.02K @ 8:39 ([Log](https://runkeeper.com/user/cdevans/activity/1765917002))
 
 - Tuesday
   - AM: 5K steady &rArr; skipped
